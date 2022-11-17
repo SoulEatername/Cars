@@ -17,5 +17,7 @@ public class mains {
        c.getDrive();
        c.getStop();
 
+       c.getStop();
+
         }
     }
